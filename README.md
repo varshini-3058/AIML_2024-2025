@@ -35,8 +35,8 @@
         2303A51744<br>
         2303A51924<br>
         2303A51893</td>
-    <td><a href = "https://drive.google.com/file/d/1COLl-5dJ0r13Ca3e1C18cApkEgscSRoB/view?usp=drive_link">SET - 3</a></td>
-    <td><a href = "https://www.kaggle.com/datasets/zeeshier/weather-forecast-dataset">DATASET</a></td>
+    <td><a href = "https://drive.google.com/file/d/1nxyrJx_PIvLosEBS2P1T-76v31rEvBRY/view?usp=drive_link">SET - 3</a></td>
+    <td><a href = "https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data">DATASET</a></td>
   </tr>
   <tr>
     <td>2303A51620<br>
